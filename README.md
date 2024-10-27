@@ -6,7 +6,7 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/kaelmosconi_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kael-ant%C3%B4nio-mosconi/)
 
-![Kael GitHub stats](https://github-readme-stats.vercel.app/api?username=Kael-JS&show_icons=true&theme=transparent)
+![Kael GitHub stats](https://github-readme-stats.vercel.app/api?username=kaelmosczx&show_icons=true&theme=transparent)
 
 ## My Skills
 
