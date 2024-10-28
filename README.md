@@ -10,7 +10,7 @@
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,nodejs,vscode,discord,bots,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,vscode,html,css,discord,bots,)](https://skillicons.dev)
 
 Passionate about technology, every day I try to learn and improve my skills by studying with a lot of focus and dedication.
 
