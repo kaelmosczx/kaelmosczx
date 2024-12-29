@@ -18,6 +18,3 @@ Passionate about technology, every day I try to learn and improve my skills by s
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kaelmosconi@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/vnzYerwua8)
-
-## Languages ​​used
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kael-JS&layout=compact)
