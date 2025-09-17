@@ -9,8 +9,6 @@ Welcome to my profile! I'm passionate about technolgy, my expertise lies in craf
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,nodejs,java,js,html,css,discord,bots,sqlite)](https://skillicons.dev)
 
-![Kael GitHub stats](https://github-readme-stats.vercel.app/api?username=kaelmosczx&show_icons=true&theme=transparent)
-
 ## Contact
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kaelmosconi@gmail.com)
