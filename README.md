@@ -1,21 +1,36 @@
+<h1 align="center">Hello, I'm Kael Antônio Mosconi 👋</h1>
 
-### Hello, I'm Kael Antônio Mosconi👋
+<p align="center">
+  <em>Software Developer | Santa Catarina, Brazil | Coffee Lover</em>
+</p>
 
-Software Developer | Santa Catarina, Brazil
+<p align="center">
+  <img src="https://i.pinimg.com/originals/20/19/59/201959d765b40078c16e0d3eb9c360d8.gif" width="400px" alt="commit gif looping" />
+</p>
 
-Welcome to my profile! I'm passionate about technolgy, my expertise lies in crafting efficient infrastructures and API's for optmized performance.
+---
 
-## My Skills
+<p align="center">
+I'm passionate about technolgy, my expertise lies in crafting efficient infrastructures and API's for optmized performance.
+</p>
+
+
+## 🧠 My Skills
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,nodejs,java,js,html,css,discord,bots,sqlite)](https://skillicons.dev)
 
-##  Tech Stack Highlights
+## 💻 Tech Stack Highlights
 
 <p align="center">
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernanda-Kipper&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaelmosczx&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
 </p>
 
-## Contact
+## 🟩 Latest Commit Energy
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kaelmosconi@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kaelmosconi)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kaelmosczx&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
+</p>
+
+<p align="center">
+  <em>Keep building. One commit at a time.</em> 🟩
+</p>
