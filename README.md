@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/20/19/59/201959d765b40078c16e0d3eb9c360d8.gif" width="400px" alt="commit gif looping" />
+  <img src="https://i.pinimg.com/originals/20/19/59/201959d765b40078c16e0d3eb9c360d8.gif" width="200px" alt="commit gif looping" />
 </p>
 
 ---
