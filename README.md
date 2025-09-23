@@ -30,7 +30,3 @@ I'm passionate about technolgy, my expertise lies in crafting efficient infrastr
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=kaelmosczx&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
 </p>
-
-<p align="center">
-  <em>Keep building. One commit at a time.</em> 🟩
-</p>
